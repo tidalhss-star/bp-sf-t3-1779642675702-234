@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity b4d84ef13cf4fc29</metadata>
-  <rect width="64" height="64" rx="13" fill="hsl(216 79% 36%)"/>
-  <path d="M26 0h38v64H12Z" fill="hsl(342 82% 66%)" opacity="0.82"/>
-  <g transform="rotate(6 32 32)" opacity="0.42"><path d="M12 32c8-17 32-17 40 0-8 17-32 17-40 0Z" fill="none" stroke="#ffffff" stroke-width="6"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SF</text>
+  <title>강남 셔츠룸</title>
+  <rect width="64" height="64" rx="11" fill="hsl(216 45% 20%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(349 68% 58%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><rect x="14" y="34" width="9" height="16" rx="2" fill="hsl(216 24% 96%)"/><rect x="27" y="26" width="9" height="24" rx="2" fill="hsl(216 24% 96%)"/><rect x="40" y="16" width="9" height="34" rx="2" fill="hsl(349 68% 58%)"/></g>
 </svg>
